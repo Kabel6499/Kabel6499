@@ -158,9 +158,9 @@ let florian = Developer(
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kabel6499-181717?style=for-the-badge&logo=github)](https://github.com/Kabel6499)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florian@just-creators.de)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-66a1ff?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:florian@just-creators.de)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0077B5?style=for-the-badge&logo=safari&logoColor=white)](https://kabel6499.de)
-[![JustCreators](https://img.shields.io/badge/JustCreators-Visit-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://just-creators.de)
+[![JustCreators](https://img.shields.io/badge/JustCreators-Visit-fffb1c?style=for-the-badge&logo=wordpress&logoColor=white)](https://just-creators.de)
 
 </div>
 
